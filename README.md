@@ -39,12 +39,29 @@ switch2.
 •  Circuit is tested for all possible combination of switch positions.
 
 
-Direct connection: CIRCUIT DIAGRAM: 
-Tabulation:1
-	
-Cross connection: CIRCUIT DIAGRAM:
+DIRECT CONNECTION: 
 
-Tabulation:2
+Circuit Diagram: 
+
+Tabulation 1:
+
+Output 1:
+![WhatsApp Image 2025-12-12 at 11 16 41_18f49c25](https://github.com/user-attachments/assets/6e3c18be-ace4-4c89-aaee-b7326e404b51)
+
+![WhatsApp Image 2025-12-12 at 11 17 12_ba808c20](https://github.com/user-attachments/assets/85d9080f-9075-49de-9899-96a3be72f957)
+
+	
+CROSS CONNECTION:
+
+Circuit Diagram:
+
+Tabulation 2:
+
+Output 2:
+![WhatsApp Image 2025-12-12 at 11 06 03_6096f68f](https://github.com/user-attachments/assets/02506f45-f6ba-4f68-aa25-0e10cfd43f4b)
+
+![WhatsApp Image 2025-12-12 at 11 04 26_b6a63fd8](https://github.com/user-attachments/assets/e983828a-5f65-4188-b5df-987a1e7565f1)
+
 
 RESULT:
 Thus the staircase wiring is connected and tested.
