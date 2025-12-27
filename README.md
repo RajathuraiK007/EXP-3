@@ -43,7 +43,13 @@ DIRECT CONNECTION:
 
 Circuit Diagram: 
 
+![WhatsApp Image 2025-12-27 at 9 55 47 AM](https://github.com/user-attachments/assets/3dcb720a-9fff-4448-9d93-54bebb485f35)
+
+
 Tabulation 1:
+
+![WhatsApp Image 2025-12-27 at 9 53 34 AM](https://github.com/user-attachments/assets/2aba5746-ff49-4bd9-88d3-0879e57cd450)
+
 
 Output 1:
 ![WhatsApp Image 2025-12-12 at 11 16 41_18f49c25](https://github.com/user-attachments/assets/6e3c18be-ace4-4c89-aaee-b7326e404b51)
@@ -55,9 +61,15 @@ CROSS CONNECTION:
 
 Circuit Diagram:
 
+![WhatsApp Image 2025-12-27 at 9 53 12 AM](https://github.com/user-attachments/assets/db67036d-3cf8-4299-9f6a-31576a474fee)
+
+
 Tabulation 2:
 
+![WhatsApp Image 2025-12-27 at 9 53 34 AM](https://github.com/user-attachments/assets/2aba5746-ff49-4bd9-88d3-0879e57cd450)
+
 Output 2:
+
 ![WhatsApp Image 2025-12-12 at 11 06 03_6096f68f](https://github.com/user-attachments/assets/02506f45-f6ba-4f68-aa25-0e10cfd43f4b)
 
 ![WhatsApp Image 2025-12-12 at 11 04 26_b6a63fd8](https://github.com/user-attachments/assets/e983828a-5f65-4188-b5df-987a1e7565f1)
